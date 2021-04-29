@@ -1,0 +1,91 @@
+/* General Styles */
+
+.container{
+	margin-top: -20px;
+	width:1600px;
+}
+
+.container-fluid{
+	padding-right: 23px;
+}
+
+body{
+	font-size: 16px;
+	line-height: 1;
+}
+
+.btn{
+	padding: 8px 13px;
+	margin-bottom: 0;
+	margin-top: 13px;
+}
+
+.jumbotron{
+	background-color: rgb(255,255,255);
+	margin-bottom:19px;
+	padding-top:23px;
+	padding-bottom:23px;
+}
+
+@CHARSET "ISO-8859-1";
+
+.col-xs-6{
+	margin-top:12px;	
+}
+
+/* For Carousel Slider */
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img{
+	height: 300px;
+	width: 1600px;
+}
+
+/* For Header Section */
+
+.navbar{
+	min-height: 56px;
+	margin-bottom: 8px;
+}
+
+.navbar-inverse{
+	background-color:#000000;
+}
+
+.navbar-brand{
+	padding:0px 15px;
+	font-size: 54px;
+}
+
+/* For footer Section */
+
+.footer-distributed{
+	background-color: #000000;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+.footer-distributed .footer-left p{
+	color:  #FFFFFF;
+	margin-top:12px;
+	font-size: 14px;
+}
+
+/* Forms Section */
+
+.form-actions{
+  margin:0;
+  background-color: transparent;;
+  text-align: center;
+}
+
+.group-title {
+	padding: 8px; 
+	margin-bottom: 16px;
+}
+
+.contactus-form {
+    border: 3px solid #bbb;
+    width: 100%;
+}
+
